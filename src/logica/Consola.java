@@ -17,8 +17,8 @@ public class Consola {
     public static void main(String[] args) {
         System.out.println("Esto es un demo");
         System.out.println("Ya sucedio el primer Commit y ahora hay cambios");
-        int a = 5;
-        System.out.println("Cambios");
+        float a = 5;
+        System.out.println("Apartir de esta version se manejara float");
     }
     
 }
