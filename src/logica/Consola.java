@@ -27,6 +27,7 @@ public class Consola {
         lista.add(res);
         System.out.println("Apartir de ahora se utilizara long");
         System.out.println("Avanze de long");
+        System.out.println("Se hizo push de long a la de int");
     }
     
 }
