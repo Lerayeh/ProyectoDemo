@@ -20,12 +20,12 @@ public class Consola {
         System.out.println("Esto es un demo");
         System.out.println("Ya sucedio el primer Commit y ahora hay cambios");
         long a = 5;
-        System.out.println("Apartir de esta version se manejara float");
         long b = 6;
         long res = a + b;
         System.out.println(res);
         ArrayList lista = new ArrayList<>();
         lista.add(res);
+        System.out.println("Apartir de ahora se utilizara long");
     }
     
 }
