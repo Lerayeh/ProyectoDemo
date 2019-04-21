@@ -19,6 +19,9 @@ public class Consola {
         System.out.println("Ya sucedio el primer Commit y ahora hay cambios");
         float a = 5;
         System.out.println("Apartir de esta version se manejara float");
+        float b = 6;
+        float res = a + b;
+        System.out.println(res);
     }
     
 }
