@@ -19,10 +19,10 @@ public class Consola {
     public static void main(String[] args) {
         System.out.println("Esto es un demo");
         System.out.println("Ya sucedio el primer Commit y ahora hay cambios");
-        float a = 5;
+        long a = 5;
         System.out.println("Apartir de esta version se manejara float");
-        float b = 6;
-        float res = a + b;
+        long b = 6;
+        long res = a + b;
         System.out.println(res);
         ArrayList lista = new ArrayList<>();
         lista.add(res);
