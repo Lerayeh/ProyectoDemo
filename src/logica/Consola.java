@@ -19,6 +19,9 @@ public class Consola {
         System.out.println("Ya sucedio el primer Commit y ahora hay cambios");
         int a = 5;
         System.out.println("Cambios");
+        int b = 7;
+        int res = a + b;
+        System.out.println(res);
     }
     
 }
