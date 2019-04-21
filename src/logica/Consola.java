@@ -26,6 +26,7 @@ public class Consola {
         ArrayList lista = new ArrayList<>();
         lista.add(res);
         System.out.println("Apartir de ahora se utilizara long");
+        System.out.println("Avanze de long");
     }
     
 }
