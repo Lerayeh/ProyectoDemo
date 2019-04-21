@@ -23,6 +23,7 @@ public class Consola {
         int res = a + b;
         System.out.println(res);
         System.out.println("Avanze int");
+        System.out.println("No se ve la union");
     }
     
 }
