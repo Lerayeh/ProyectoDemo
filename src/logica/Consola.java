@@ -5,6 +5,8 @@
  */
 package logica;
 
+import java.util.ArrayList;
+
 /**
  *
  * @author Gabriel Peredo
@@ -22,6 +24,8 @@ public class Consola {
         float b = 6;
         float res = a + b;
         System.out.println(res);
+        ArrayList lista = new ArrayList<>();
+        lista.add(res);
     }
     
 }
