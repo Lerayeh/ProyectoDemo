@@ -25,6 +25,7 @@ public class Consola {
         System.out.println("Avanze int");
         System.out.println("No se ve la union");
         System.out.println("Utilizando version 3 del int");
+        System.out.println("Probando");
     }
     
 }
