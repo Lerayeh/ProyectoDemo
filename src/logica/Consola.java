@@ -22,6 +22,7 @@ public class Consola {
         int b = 7;
         int res = a + b;
         System.out.println(res);
+        System.out.println("Avanze int");
     }
     
 }
