@@ -17,10 +17,10 @@ public class Consola {
     public static void main(String[] args) {
         System.out.println("Esto es un demo");
         System.out.println("Ya sucedio el primer Commit y ahora hay cambios");
-        int a = 5;
+        float a = 5;
         System.out.println("Cambios");
-        int b = 7;
-        int res = a + b;
+        float b = 7;
+        float res = a + b;
         System.out.println(res);
         System.out.println("Avanze int");
         System.out.println("No se ve la union");
@@ -28,6 +28,7 @@ public class Consola {
         System.out.println("Probando");
         
         System.out.println("Prueba int 2");
+        System.out.println("Maquina remota probando y cambiando los int por float");
     }
     
 }
